@@ -2,3 +2,5 @@
 [Live Link](https://accordionfaq01.netlify.app/)
 
 **Name:** Aniket Shahare
+
+![image](/Image/accordionFaq.png)
